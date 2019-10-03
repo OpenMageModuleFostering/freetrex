@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 This premium Magento responsive theme highlights cycle store theme but can be easily adapted to feature any product range. The theme comes in 4 colors: blue, green, yellow and violet and is mobile ready.
